@@ -2,4 +2,4 @@
 
 Shiny files for the fertility app
 
-See www.lostnat.net/lnsDFoKytr/2017/07/04/fertility  for a discussion.
+See www.stihie.net/lnsDFoKytr/2017/07/04/fertility  for a discussion.
